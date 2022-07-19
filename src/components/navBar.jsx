@@ -12,10 +12,10 @@ function NavBar() {
 					<a href="#" className="link-light nav-link ">
 						Home
 					</a>
-					<a href="#" className="link-light nav-link active">
+					<a href="#" className="link-light nav-link ">
 						Productos
 					</a>
-					<a href="#" className="link-light nav-link active">
+					<a href="#" className="link-light nav-link ">
 						Ofertas
 					</a>
 				</ul>

@@ -1,7 +1,7 @@
 const ItemListContainer = (props) => {
 	return (
 		<>
-			<h2>{props.greeting}</h2>
+			<h2 className="App">{props.greeting}</h2>
 		</>
 	);
 };
