@@ -40,6 +40,11 @@ const ItemCount = (props) => {
 						>
 							+
 						</button>
+						<div>
+							<button className="btn btn-warning App">
+								Agregar
+							</button>
+						</div>
 					</div>
 				</div>
 			</div>
